@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arun&#39;s Blog</title>
+    <link>https://arunkv.github.io/post/</link>
+    <description>Recent content in Posts on Arun&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arunkv.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello-world.Rmd</title>
+      <link>https://arunkv.github.io/2017/09/hello-world.rmd/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunkv.github.io/2017/09/hello-world.rmd/</guid>
+      <description>Welcome to blogging with blogdown!</description>
+    </item>
+    
+  </channel>
+</rss>
